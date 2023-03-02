@@ -1,0 +1,14 @@
+node_modules/**
+scripts/**
+locale/
+server/node_modules/**
+dist/**
+src/vendor/**
+src/assets/**
+__snapshots__/**
+webpack/polyfills.js
+package.json
+*.spec.*.snap
+*.svg
+*.jpg
+*.png
